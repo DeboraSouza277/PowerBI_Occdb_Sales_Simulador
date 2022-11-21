@@ -1,6 +1,6 @@
 # Projeto Relatório em Power Bi com Banco de Dados Access
 
-### 👩🏾‍💻 Sobre o projeto
+## 👩🏾‍💻 Sobre o projeto
 
 Esse é um projeto de Power Bi, onde foi explorado técnicas de importação e tratamento de dados, modelagem e cálculos no DAX, criação de visuais e variáveis "what-if ".
 Explorei algumas funções do DAX com detalhes para responder a algumas questões de negócios e também foi aplicado técnicas de Business Intelligence.
