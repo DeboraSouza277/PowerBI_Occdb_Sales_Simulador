@@ -7,7 +7,7 @@ Explorei algumas funções do DAX com detalhes para responder a algumas questõe
 
 ## 🎲Dados do projeto
 
-No projeto foi utilizado o conjunto de dados fictícios de vendas de bicicletas, que  é um varejo fictício dentro do um arquivo de banco de dados Microsoft ACES
+No projeto foi utilizado o conjunto de dados fictícios de vendas de bicicletas, peças e utensilios. Os dados brutos estão em um banco de dados Microsoft Access.
 
 ## 📚 Conteúdo e Resultado
 
