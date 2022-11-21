@@ -12,13 +12,14 @@ No projeto foi utilizado o conjunto de dados fictícios de vendas de bicicletas,
 ## 📚 Conteúdo e Resultado
 
  - Funções de Medidas de Tempo
+ - Variáveis "what-if (exemplo simples de utilização de um parâmetro de hipótese)
+ - DAX
+ - Linguagem M
  - Medidas Dinâmicas
- - Power Query
  - Modelagem de dados no Power Query
  - Visualizações Gráficos
  - Visualizações Tabelas
- - Variáveis "what-if (exemplo simples de utilização de um parâmetro de hipótese)
- - Backgroud no Figma
+ - Background no Figma
  
 💻Relatório Online : "https://lnkd.in/drhjxjp"
 
