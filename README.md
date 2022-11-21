@@ -11,7 +11,6 @@ No projeto foi utilizado o conjunto de dados fictícios de vendas de bicicletas,
 
 ## 📚 Conteúdo e Resultado
 
-- Visão Sales Bike
  - Funções de Medidas de Tempo
  - Medidas Dinâmicas
  - Power Query
