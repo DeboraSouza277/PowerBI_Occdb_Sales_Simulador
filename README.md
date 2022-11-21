@@ -19,6 +19,7 @@ No projeto foi utilizado o conjunto de dados fictícios de vendas de bicicletas,
  - Modelagem de dados no Power Query
  - Visualizações Gráficos
  - Visualizações Tabelas
+ - Compartilhamento (Power bi Service)
  - Background no Figma
  
 💻Relatório Online : "https://lnkd.in/drhjxjp"
@@ -31,6 +32,7 @@ No projeto foi utilizado o conjunto de dados fictícios de vendas de bicicletas,
 ## 🧰 Tecnologias
 
 
-- Power Bi 
+- Power Bi Desktop
+- Power BI Serviço
 - BD - ACCESS
 - Figma
